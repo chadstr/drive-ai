@@ -1,15 +1,15 @@
 # drive-ai
 ## Behavioral Cloning Project
 
-This project was completed to satisfy a requirement of the Udacity Self Driving Car Engineer Nanodegree.
-
 The goals / steps of this project are the following:
 
-* Use the Udacity car-simulator to collect data of good driving behavior
-* Build, a convolution neural network in Keras that predicts steering angles from images
-* Train and validate the model with a training and validation set
+* Use the Udacity car-simulator to collect images representing desired driving behavior
+* Build a convolutional neural network architecture in Keras that predicts steering angles from images
+* Train and validate the model with a training and validation set (see model.py)
 * Test that the model successfully drives around a track without leaving the road
 * Summarize the results with a written report
+
+This project was completed to satisfy one of the requirements of the Udacity Self Driving Car Engineer Nanodegree.
 
 ****
 
