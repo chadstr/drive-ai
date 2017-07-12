@@ -1,5 +1,5 @@
 # drive-ai
-## Creating A Self-Driving Car AI Using Behavioral Cloning To Learn From Human Examples
+## Coding A Self-Driving Car AI Using Behavioral Cloning To Learn From Human Examples
 
 The goals / steps of this project are the following:
 
