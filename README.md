@@ -114,4 +114,4 @@ I used this training data for training the model. The validation set helped dete
 
 ![alt text][image4]
 
-I used an adam optimizer so that manually tuning the learning rate was not necessary.
+I used an adam optimizer so manually tuning the learning rate was not necessary.
