@@ -1,5 +1,5 @@
 # drive-ai
-## Behavioral Cloning Project
+## Creating A Self-Driving Car AI Using Behavioral Cloning To Learn From Human Examples
 
 The goals / steps of this project are the following:
 
@@ -7,8 +7,6 @@ The goals / steps of this project are the following:
 * Build a convolutional neural network architecture in Keras that predicts steering angles from images
 * Train and validate the model with a training and validation set (see [model.py](./model.py))
 * Test that the model successfully drives around a track autonomously without leaving the road
-
-This project was completed to satisfy one of the requirements of the Udacity Self Driving Car Engineer Nanodegree.
 
 ****
 
