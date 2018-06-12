@@ -1,7 +1,7 @@
 # drive-ai
 ## Coding A Self-Driving Car AI (Using Behavioral Cloning To Learn From Human Examples)
 
-Watch a [video demonstration](https://youtu.be/yjsqpEfjWIo) of the final trained model
+Watch a video demonstration of the final trained model [here](https://youtu.be/yjsqpEfjWIo).
 
 The goals / steps of this project are the following:
 
@@ -118,5 +118,5 @@ I used this training data for training the model. The validation set helped dete
 
 I used an adam optimizer so manually tuning the learning rate was not necessary.
 
-Watch a [video demonstration](https://youtu.be/yjsqpEfjWIo) of the final trained model
+Watch a video demonstration of the final trained model [here](https://youtu.be/yjsqpEfjWIo).
 
