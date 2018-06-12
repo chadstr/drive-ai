@@ -1,6 +1,8 @@
 # drive-ai
 ## Coding A Self-Driving Car AI (Using Behavioral Cloning To Learn From Human Examples)
 
+Watch a video demonstration of the trained model [here] (https://youtu.be/yjsqpEfjWIo)
+
 The goals / steps of this project are the following:
 
 * Use the Udacity car-simulator to collect images representing desired driving behavior
@@ -115,3 +117,6 @@ I used this training data for training the model. The validation set helped dete
 ![alt text][image4]
 
 I used an adam optimizer so manually tuning the learning rate was not necessary.
+
+Watch a video demonstration of the trained model [here] (https://youtu.be/yjsqpEfjWIo)
+
